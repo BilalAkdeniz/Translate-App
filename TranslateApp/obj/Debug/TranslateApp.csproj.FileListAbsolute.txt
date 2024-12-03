@@ -1,0 +1,14 @@
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\bin\Debug\TranslateApp.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\bin\Debug\TranslateApp.exe
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\bin\Debug\TranslateApp.pdb
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\TranslateApp.csproj.AssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\TranslateApp.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\TranslateApp.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\TranslateApp.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\Translat.4C05B61B.Up2Date
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\TranslateApp.exe
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\TranslateApp.pdb
+C:\Users\bilal\OneDrive\Masaüstü\C#\TranslateApp\obj\Debug\TranslateApp.TranslateApp.resources
