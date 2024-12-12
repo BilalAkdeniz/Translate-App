@@ -77,6 +77,23 @@ namespace TranslateApp
 
 
         }
+
+        bool isWhite = true;
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            if (isWhite)
+            {
+                this.BackColor = Color.FromArgb(250, 240, 202);
+                label1.ForeColor = Color.Black;
+            }
+            else
+            {
+                this.BackColor = Color.FromArgb(33, 37, 41);
+                label1.ForeColor = Color.White;
+            }
+            isWhite = !isWhite;
+        }
     }
 
     public class TranslationResponse
